@@ -1,0 +1,54 @@
+
+Golden Hearts Royale
+
+Category: Card
+
+Short Description
+Experience a captivating fantasy twist on classic poker in Golden Hearts Royale! Bet your coins, form winning hands, and aim for a royal flush amid a realm of shimmering lights and gilded hearts. For entertainment purposes only.
+
+Full Description
+Step into a magical world where poker is reimagined with sparkling visuals and a heart-of-gold flair. Golden Hearts Royale is a vibrant poker simulator that brings timeless five-card draw to life with whimsical fantasy elements. Choose your stakes, strategize your bets, and chase everything from pairs and straights to full houses and the coveted royal flush. The colorful interface, golden heart suit, and enchanting backdrop create an immersive atmosphere for both newcomers and veteran card players.
+
+Smooth gameplay, intuitive controls, and generous rewards keep the excitement flowing as you sharpen your skills, climb the leaderboard, and bask in the glory of every winning hand. This game is for entertainment purposes only.orld of poker with "Poker 5 RM Cards: Hand Ranking"! Whether you're a beginner or a seasoned player, this game will challenge your poker hand ranking skills to the fullest. Sharpen your strategy, learn the intricacies of hand rankings.
+
+###############
+
+Game name: Golden Hearts Royale
+AppID: com.golden.hearts.royale
+
+###############
+
+India, Pakistan, Bangladesh, Colombia, Mexico, Philippines
+IST,PKT,+06,-05,PST,MST,CST,EST
+
+Privacy: 
+
+############
+
+IP: , 28/2/2025
+[upload] part A+B
+
+############### Message
+
+I have an app ready to upload for Android. Please help check!
+
+Game name: Golden Hearts Royale
+AppID: com.golden.hearts.royale
+
+#####Android - [Interface]
+
+1. [lua url interface]
+ true => [TimeZone]
+ false => part A
+ URL: https://lysokheng.github.io/lua_android/com.golden.hearts.royale,aHR0cHM6Ly93d3cuaW56b3J5LmNvbS9hcGkvdjEvdGhpcmQvb3Blbg==,IST,PKT,+06,-05,PST,MST,CST,EST,.lua
+
+2. [TimeZone]
+ true => [URL interface]
+ false => part A
+ 
+3. [URL interface] 
+   API URL: https://www.inzory.com/api/v1/third/open?gclid=57376092-9683-4f56-8551-d314a24344bb&aid=UPB5.230623.003&gmToken=cmvILdUbT8OwOxlnyOuDpG:APA91bFOx3EeU5gOA7iFZiP9grS2az1snCVN2hoUIQ2ef7ZvXebSC7qerFUwYdBM_v2T1J1HXL9bf9QMl5CvnJbCwhrlqZDOWcKTmiPs9v7bjbwgN3_U1bM
+
+   H5 URL: https://www.inzory.com/?gaid=null&aid=UPB5.230623.003
+
+Best Regards,
