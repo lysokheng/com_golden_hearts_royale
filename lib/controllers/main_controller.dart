@@ -105,18 +105,16 @@ class MainController extends GetxController {
       androidId = 'Error retrieving Android ID';
     }
 
-    _advertisingId = advertisingId;
+    _advertisingId = advertisingId ?? 'Empty';
     _androidId = androidId;
     getHttp(token.value);
   }
 
   void getHttp(String token) async {
     var api =
-        '${result.value}?gclid=$_advertisingId&aid=$_androidId&gmToken=$token';
-    print('debug: $api');
+        '${result.value}?gaid=$_advertisingId&aid=$_androidId&gmToken=$token';
     final response = await dio.get(api);
     url.value = response.data['model']['url'];
-    print('debug: ${url.value}');
     Get.off(() => Game());
   }
 

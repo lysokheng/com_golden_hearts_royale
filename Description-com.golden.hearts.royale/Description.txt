@@ -1,19 +1,19 @@
 
-Golden Hearts Royale
+Golden Rummy Royale
 
 Category: Card
 
 Short Description
-Experience a captivating fantasy twist on classic poker in Golden Hearts Royale! Bet your coins, form winning hands, and aim for a royal flush amid a realm of shimmering lights and gilded hearts. For entertainment purposes only.
+Experience a captivating fantasy twist on classic poker in Golden Rummy Royale! Bet your coins, form winning hands, and aim for a royal flush amid a realm of shimmering lights and gilded hearts. For entertainment purposes only.
 
 Full Description
-Step into a magical world where poker is reimagined with sparkling visuals and a heart-of-gold flair. Golden Hearts Royale is a vibrant poker simulator that brings timeless five-card draw to life with whimsical fantasy elements. Choose your stakes, strategize your bets, and chase everything from pairs and straights to full houses and the coveted royal flush. The colorful interface, golden heart suit, and enchanting backdrop create an immersive atmosphere for both newcomers and veteran card players.
+Step into a magical world where poker is reimagined with sparkling visuals and a heart-of-gold flair. Golden Rummy Royale is a vibrant poker simulator that brings timeless five-card draw to life with whimsical fantasy elements. Choose your stakes, strategize your bets, and chase everything from pairs and straights to full houses and the coveted royal flush. The colorful interface, golden heart suit, and enchanting backdrop create an immersive atmosphere for both newcomers and veteran card players.
 
-Smooth gameplay, intuitive controls, and generous rewards keep the excitement flowing as you sharpen your skills, climb the leaderboard, and bask in the glory of every winning hand. This game is for entertainment purposes only.orld of poker with "Poker 5 RM Cards: Hand Ranking"! Whether you're a beginner or a seasoned player, this game will challenge your poker hand ranking skills to the fullest. Sharpen your strategy, learn the intricacies of hand rankings.
+Smooth gameplay, intuitive controls, and generous rewards keep the excitement flowing as you sharpen your skills, climb the leaderboard, and bask in the glory of every winning hand. This game is for entertainment purposes only. 
 
 ###############
 
-Game name: Golden Hearts Royale
+Game name: Golden Rummy Royale
 AppID: com.golden.hearts.royale
 
 ###############
@@ -21,7 +21,7 @@ AppID: com.golden.hearts.royale
 India, Pakistan, Bangladesh, Colombia, Mexico, Philippines
 IST,PKT,+06,-05,PST,MST,CST,EST
 
-Privacy: 
+Privacy: https://www.freeprivacypolicy.com/live/77ed4e04-a424-4608-b4f8-696a0d14d7fa
 
 ############
 
@@ -47,8 +47,20 @@ AppID: com.golden.hearts.royale
  false => part A
  
 3. [URL interface] 
-   API URL: https://www.inzory.com/api/v1/third/open?gclid=57376092-9683-4f56-8551-d314a24344bb&aid=UPB5.230623.003&gmToken=cmvILdUbT8OwOxlnyOuDpG:APA91bFOx3EeU5gOA7iFZiP9grS2az1snCVN2hoUIQ2ef7ZvXebSC7qerFUwYdBM_v2T1J1HXL9bf9QMl5CvnJbCwhrlqZDOWcKTmiPs9v7bjbwgN3_U1bM
+   API URL: https://www.inzory.com/api/v1/third/open?gaid=57376092-9683-4f56-8551-d314a24344bb&aid=UPB5.230623.003&gmToken=cmvILdUbT8OwOxlnyOuDpG:APA91bFOx3EeU5gOA7iFZiP9grS2az1snCVN2hoUIQ2ef7ZvXebSC7qerFUwYdBM_v2T1J1HXL9bf9QMl5CvnJbCwhrlqZDOWcKTmiPs9v7bjbwgN3_U1bM
 
-   H5 URL: https://www.inzory.com/?gaid=null&aid=UPB5.230623.003
+   H5 URL: https://www.inzory.com/?gaid=57376092-9683-4f56-8551-d314a24344bb&aid=UPB5.230623.003
 
 Best Regards,
+
+Account
+
+Address: 
+قرية العجميين
+مركز ابشواي - 63512
+Egypt (EG)
+
+Developer name
+Suwaid
+
+EmailL: yyo983689@gmail.com
