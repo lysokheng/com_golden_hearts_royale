@@ -64,3 +64,15 @@ Developer name
 Suwaid
 
 EmailL: yyo983689@gmail.com
+
+
+
+App signing key certificate
+This is the public certificate for the app signing key that Google uses to sign each of your releases. Use it to register your key with API providers. The app signing key itself is not accessible, and is kept on a secure Google server.
+MD5 certificate fingerprint
+89:CE:FE:ED:13:DA:A2:C7:AF:F2:2B:7D:30:6A:48:C3
+SHA-1 certificate fingerprint
+A9:75:1F:38:09:A0:6A:24:85:D8:80:60:99:96:45:51:02:D6:F2:29
+SHA-256 certificate fingerprint
+B7:E5:51:5C:BA:2E:31:26:B6:DF:4A:92:54:51:4B:00:11:5A:5E:71:76:C2:45:E5:4B:B3:50:9C:D1:C6:11:4E
+
