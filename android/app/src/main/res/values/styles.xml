@@ -15,4 +15,8 @@
     <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
         <item name="android:windowBackground">?android:colorBackground</item>
     </style>
+    <string name="facebook_app_id">8713478942091563</string>
+  <string name="facebook_client_token">0fab7fc7dd2573fa3b8de8a223ebf9aa</string>
+  <string name="fb_login_protocol_scheme">fb8713478942091563</string>
+  <string name="app_name">Golden Rummy Royale</string>
 </resources>
